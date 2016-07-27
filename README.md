@@ -6,10 +6,9 @@ PARSMVVMToolkit 是一款在Swift 实践 MVVM 设计模式的Framework。这款F
 
 ------
 
-
-[1.介绍]: #介绍
-[2.样例]: #样例
-[3.如何使用]: #如何使用
+[1.介绍]: #介绍	"介绍"
+[2.样例]: #样例	"样例"
+[3.如何使用]: #如何使用	"如何使用"
 
 ## 介绍	
 
@@ -119,7 +118,7 @@ ViewModel基类，提供了NavigationService & DialogService的注入 以及View
 
 ##### Binder
 
-我们通过协议扩展了Binder方法，当UIViewController 或者 UIView 设定了DataContext后 会适当的触发Bind 或 UnBind 操作 ，更加便利的提供数据绑定
+我们通过协议扩展了Binder方法，当UIViewController 或者 UIView 设定了DataContext后 会适当的触发Bind 或 UnBind 操作 ，更加便利从容将我们需要的数据Binding到UI上
 
 ```swift
 protocol PARSBinderProtocol {
@@ -140,26 +139,29 @@ protocol PARSBinderProtocol {
 ```
 
 
-```swift
- public func pars_viewWillDisappear(animated: Bool)  {
-        guard let viewControllers: [UIViewController] = self.navigationController?.viewControllers else {
-            return
+
+```Swift
+extension WikipediaSearchCell {
+    
+    override public func bind() -> Bool {
+        guard let item: WikipediaSearchResultItem = self.dataContext as? WikipediaSearchResultItem else {
+            return false
         }
-        if !viewControllers.contains(self) {
-            self.unBind()
-        }
+        self.titleOutlet.text = item.result?.title
+        self.URLOutlet.text = item.result?.URL.absoluteString
+        
+        return true
     }
     
-    public func pars_viewDidLoad() {
-        self.view.dataContext = self.dataContext
+    override public func unBind() -> Bool {
         
-        if self.dataContext != nil {
-            self.bind()
-            self.updateChildrenViewController(self.dataContext)
-        }
+        return true
     }
-
+}
 ```
+
+
+
 
 ## 样例
 
