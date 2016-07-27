@@ -1,14 +1,13 @@
 ## PARSMVVMToolkit
 
+[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/PA-RS/PARSMVVMToolkit/master/LICENSE) 
+
 PARSMVVMToolkit 是一款在Swift 实践 MVVM 设计模式的Framework。这款Framework提供了更便利的API使视图业务逻辑分层更加清晰
 
-一些功能与设计借鉴了：https://github.com/leichunfeng/MVVMReactiveCocoa
+
 
 ------
 
-[1.介绍]: #介绍	"介绍"
-[2.样例]: #样例	"样例"
-[3.如何使用]: #如何使用	"如何使用"
 
 ## 介绍	
 
@@ -178,3 +177,7 @@ PARSMVVMToolkit 支持 OS X 10.9+, iOS 8.0+
 将PARSMVVMToolkit.framework 加入到Embedded Binaries 选项卡中
 
 在Build setting 中将EMBEDDED_CONTENT_CONTAINS_SWIFT build setting 设置为YES
+
+## 参考
+
+https://github.com/leichunfeng/MVVMReactiveCocoa
