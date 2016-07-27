@@ -2,7 +2,7 @@
 
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/PA-RS/PARSMVVMToolkit/master/Lisence) 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) 
-(https://img.shields.io/badge/Swift-2.2.x-orange.svg) ![platforms](https://img.shields.io/badge/platforms-iOS%20%7C%20OS%20X%20%7C%20watchOS%20%7C%20tvOS%20-lightgrey.svg)
+![Swift 2.2.x](https://img.shields.io/badge/Swift-2.2.x-orange.svg)![platforms](https://img.shields.io/badge/platforms-iOS-lightgrey.svg)
 PARSMVVMToolkit 是一款在Swift 实践 MVVM 设计模式的Framework。这款Framework提供了更便利的API使视图业务逻辑分层更加清晰
 
 
