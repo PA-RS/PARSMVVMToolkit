@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A44839D37E7952E09926AD8A0A11B7E9A9C5054B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A44839D37E7952E09926AD8A0A11B7E9A9C5054B" : 0,
+    "8995DC9F1240D13930DEA366A5B891EEF349AD28" : 0,
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : 0,
+    "F88930A94D4C1BCF985BD75B40AE5F7025DAB92C" : 0,
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E8DADC33-09C5-4331-9701-336781F59AF8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A44839D37E7952E09926AD8A0A11B7E9A9C5054B" : "PARSMVVMToolkit\/",
+    "8995DC9F1240D13930DEA366A5B891EEF349AD28" : "..",
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : "PARSMVVMToolkit\/RAC\/",
+    "F88930A94D4C1BCF985BD75B40AE5F7025DAB92C" : "..\/..",
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : "PARSMVVMToolkit\/RAC\/Carthage\/Checkouts\/Result\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PARSMVVMToolkit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PARSMVVMTookit\/PARSMVVMToolkit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ReactiveCocoa\/ReactiveCocoa.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git.palife.com:2222\/root\/PAKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8995DC9F1240D13930DEA366A5B891EEF349AD28"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/antitypical\/Result.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "956D2B21DD155C49504BB67697A67F7C5351A353"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git.palife.com:2222\/WANGRENZHU359\/PARSMVVMToolkit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A44839D37E7952E09926AD8A0A11B7E9A9C5054B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git.palife.com:2222\/root\/PALifeApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F88930A94D4C1BCF985BD75B40AE5F7025DAB92C"
+    }
+  ]
+}

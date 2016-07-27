@@ -1,0 +1,58 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "524DB41D966CE035F0FFE77F6F6ADA39E02E1B6F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : 0,
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : 0,
+    "8995DC9F1240D13930DEA366A5B891EEF349AD28" : 0,
+    "524DB41D966CE035F0FFE77F6F6ADA39E02E1B6F" : 0,
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : 0,
+    "F88930A94D4C1BCF985BD75B40AE5F7025DAB92C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6664C8DB-0692-4D05-B6A3-E583094FDAD3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : "..\/..\/..\/..\/github\/ReactiveCocoa\/ReactiveCocoa\/Carthage\/Checkouts\/Result",
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : "..\/..\/..\/..\/github\/ReactiveCocoa\/ReactiveCocoa\/Carthage\/Checkouts\/xcconfigs",
+    "8995DC9F1240D13930DEA366A5B891EEF349AD28" : "..",
+    "524DB41D966CE035F0FFE77F6F6ADA39E02E1B6F" : "PARSMVVMToolkit\/",
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : "..\/..\/..\/..\/github\/ReactiveCocoa\/ReactiveCocoa",
+    "F88930A94D4C1BCF985BD75B40AE5F7025DAB92C" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PARSMVVMToolkitExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PARSMVVMToolkitExample\/PARSMVVMToolkitExample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ReactiveCocoa\/ReactiveCocoa.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git.palife.com:2222\/WANGRENZHU359\/PARSMVVMToolkit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "524DB41D966CE035F0FFE77F6F6ADA39E02E1B6F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git.palife.com:2222\/root\/PAKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8995DC9F1240D13930DEA366A5B891EEF349AD28"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/antitypical\/Result.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "956D2B21DD155C49504BB67697A67F7C5351A353"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jspahrsummers\/xcconfigs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E084C86B03F81D63323C9E7510697EA528A758C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git.palife.com:2222\/root\/PALifeApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F88930A94D4C1BCF985BD75B40AE5F7025DAB92C"
+    }
+  ]
+}

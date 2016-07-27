@@ -1,0 +1,65 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A44839D37E7952E09926AD8A0A11B7E9A9C5054B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : 0,
+    "A44839D37E7952E09926AD8A0A11B7E9A9C5054B" : 0,
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : 0,
+    "8B123162C394A0A0A138779108E4C59DD771865A" : 0,
+    "F88930A94D4C1BCF985BD75B40AE5F7025DAB92C" : 0,
+    "8995DC9F1240D13930DEA366A5B891EEF349AD28" : 0,
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "934FFBDD-28A8-452A-B615-618E94EAA743",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : "CocoaMVVMTookit\/RAC\/Carthage\/Checkouts\/Result\/",
+    "A44839D37E7952E09926AD8A0A11B7E9A9C5054B" : "CocoaMVVMTookit\/",
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : "CocoaMVVMTookit\/RAC\/Carthage\/Checkouts\/xcconfigs\/",
+    "8B123162C394A0A0A138779108E4C59DD771865A" : "CocoaMVVMTookit\/RXSwift\/",
+    "F88930A94D4C1BCF985BD75B40AE5F7025DAB92C" : "..\/..",
+    "8995DC9F1240D13930DEA366A5B891EEF349AD28" : "..",
+    "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5" : "CocoaMVVMTookit\/RAC\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CocoaMVVMToolkit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CocoaMVVMToolkit\/CocoaMVVMToolkit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ReactiveCocoa\/ReactiveCocoa.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51B210D0D41486D3ADD6940D57E4480BBD4DE4C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git.palife.com:2222\/root\/PAKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8995DC9F1240D13930DEA366A5B891EEF349AD28"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ReactiveX\/RxSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8B123162C394A0A0A138779108E4C59DD771865A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/antitypical\/Result.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "956D2B21DD155C49504BB67697A67F7C5351A353"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git.palife.com:2222\/WANGRENZHU359\/CocoaMVVMToolkit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A44839D37E7952E09926AD8A0A11B7E9A9C5054B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jspahrsummers\/xcconfigs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E084C86B03F81D63323C9E7510697EA528A758C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git.palife.com:2222\/root\/PALifeApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F88930A94D4C1BCF985BD75B40AE5F7025DAB92C"
+    }
+  ]
+}
